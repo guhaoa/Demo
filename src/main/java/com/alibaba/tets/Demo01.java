@@ -32,6 +32,7 @@ public class Demo01 {
 
         System.out.print("new Thread();");
 
+        System.out.println("你好好吗");
     }
 
     @Test
