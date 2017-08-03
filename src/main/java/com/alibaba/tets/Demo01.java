@@ -29,8 +29,7 @@ public class Demo01 {
         System.out.println(list.toString());*/
         repeatMessage("你好啊",1000);
 
-
-        System.out.print("new Thread();");
+        System.out.println("我是一个小分支啊");
 
     }
 
