@@ -30,7 +30,8 @@ public class Demo01 {
         repeatMessage("你好啊",1000);
 
 
-        System.out.print("");
+        System.out.print("new Thread();");
+
     }
 
     @Test
