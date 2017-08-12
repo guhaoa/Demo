@@ -4,6 +4,7 @@ package com.alibaba.client;
  * @author MSI
  * @date 2017/08/03
  */
+//你好啊
 public class Unsynch {
     private static final int NACCOUNTS = 100;
     private static final double INITIAL_BALANCE = 1000;
